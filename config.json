@@ -1,0 +1,23 @@
+{
+  "params":
+  {
+      "local_server":"True",
+      "local_uri":"mysql://root:@localhost/codingthunderbolt",
+      "prod_uri":"mysql://root:@localhost/codingthunderbolt",
+      "fb_uri":"https://facebook.com/codingthunder",
+      "tw_uri":"https://twitter.com/codingthunder",
+      "git_uri":"https://github.com/codingthunder",
+      "blog_name":"Coding Bots",
+      "gmail_user":"khauffmfs510@gmail.com",
+      "gmail_password":"cara@#$123",
+      "about_me":"Hey! My name is Fahim . This is my first blog site.",
+      "number_of_post":2,
+      "login_image": "login.svg",
+      "admin_user":"fahim",
+      "admin_password":"cara123",
+      "upload_location":"C:\\Users\\user\\OneDrive\\Desktop\\New folder\\static"
+
+  }
+
+
+}
